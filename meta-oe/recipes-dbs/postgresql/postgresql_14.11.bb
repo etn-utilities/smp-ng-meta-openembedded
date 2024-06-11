@@ -7,7 +7,6 @@ SRC_URI += "\
    file://0001-Add-support-for-RISC-V.patch \
    file://0001-Improve-reproducibility.patch \
    file://0001-configure.ac-bypass-autoconf-2.69-version-check.patch \
-   file://remove_duplicate.patch \
    file://0001-config_info.c-not-expose-build-info.patch \
    file://0001-Properly-NULL-terminate-GSS-receive-buffer-on-error-.patch \
    file://0001-postgresql-fix-ptest-failure-of-sysviews.patch \
